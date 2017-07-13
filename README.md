@@ -4,20 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 12, 2017
 
 ### Student Name:  
-(First and Last Name)
+Sheila Pimentel
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating a tax bracket calculator. This actually is very handy because I tried to put together a calculator for a project of mine and had no luck. Now, I will definitely try it again with these new skills.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. If/else statements are conditional statements that includes a path if a condition is true and a path if a condition is false.
+2. Loops cause a portion of the code to repeat itself until a condition is met.
+3. Array objects are variables that store multiple values. Each of these values are given an index number in the array and each value is referred to by array name and index number.
 
