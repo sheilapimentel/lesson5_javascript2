@@ -13,8 +13,7 @@ Sheila Pimentel
 Creating a tax bracket calculator. This actually is very handy because I tried to put together a calculator for a project of mine and had no luck. Now, I will definitely try it again with these new skills.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sheilapimentel.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. If/else statements are conditional statements that includes a path if a condition is true and a path if a condition is false.
